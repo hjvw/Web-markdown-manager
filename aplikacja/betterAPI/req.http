@@ -1,0 +1,7 @@
+POST http://localhost:5001/add/user HTTP/1.1
+Content-Type: application/json
+
+{
+    
+    "UserName":"dawdwafgaga3vslkighj4w8p"
+}
